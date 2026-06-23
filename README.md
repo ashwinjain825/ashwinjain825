@@ -1,161 +1,184 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=root%40ashwin%3A~%24+whoami;Ashwin+Jain;AI+%26+DS+Student;Web+Developer;Competitive+Programmer;Building+Projects+That+Matter" />
+<div align="center">
 
-```bash
-┌───────────────────────────────────────────────────────────────┐
-│ USER      : Ashwin Jain                                      │
-│ COLLEGE   : IIITDM Kurnool                                   │
-│ BRANCH    : Artificial Intelligence & Data Science           │
-│ ROLE      : Student | Developer | Problem Solver             │
-│ LOCATION  : India                                             │
-└───────────────────────────────────────────────────────────────┘
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,30:0A84FF,70:FF1744,100:0D1117&text=ASHWIN%20JAIN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20|%20Developer%20|%20Builder&descAlignY=58"/>
 
-<img src="https://komarev.com/ghpvc/?username=ashwinjain825&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge"/>
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=0A84FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%26+Data+Science+Student;Competitive+Programmer;Building+FROM4+%7C+EGG+Engine+%7C+SyncSwitch;Always+Learning+Something+New"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ashwinjain825&label=PROFILE+VIEWS&color=0A84FF&style=for-the-badge"/>
+
+</div>
 
 ---
 
-# root@ashwin:~$ cat about.txt
+## About Me
 
 ```yaml
-Name: Ashwin Jain
+Name      : Ashwin Jain
+College   : IIITDM Kurnool
+Branch    : Artificial Intelligence & Data Science
 
-Current Focus:
-  - Full Stack Web Development
+Focus:
+  - Full Stack Development
   - Artificial Intelligence
   - Competitive Programming
-  - Open Source Development
+  - Open Source
 
-Learning:
-  - System Design
-  - Machine Learning
-  - Advanced DSA
+Currently Building:
+  - FROM4
+  - EGG Engine
+  - SyncSwitch
 
-Interests:
-  - Building Useful Software
-  - Entrepreneurship
-  - Web Technologies
-  - Problem Solving
-
-Fun Fact:
-  - I enjoy turning ideas into real products.
+Tech:
+  - Python
+  - C++
+  - JavaScript
+  - PHP
+  - MySQL
+  - HTML
+  - CSS
+  - Arduino
 ```
 
 ---
 
-# root@ashwin:~$ tree projects/
+## Tech Stack
 
-```text
-projects
-│
-├── FROM4
-│   ├── Digital Addressing System
-│   ├── OpenStreetMap Integration
-│   ├── Location Encoding Engine
-│   └── Custom Address Generation
-│
-├── SyncSwitch
-│   ├── Device Synchronization
-│   ├── Cross Device Control
-│   └── Smart Connectivity
-│
-├── EGG Engine
-│   ├── Expression To Gate Generator
-│   ├── Digital Logic Visualization
-│   └── Logic Circuit Generation
-│
-├── BigCalc
-│   ├── High Precision Calculations
-│   ├── Large Number Operations
-│   └── Mathematical Utilities
-│
-└── Visual Draw
-    ├── Interactive Drawing Tool
-    ├── Visual Design Workspace
-    └── Canvas Based Editing
-```
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,php,mysql,html,css,git,github,vscode,arduino&perline=6"/>
+
+</div>
 
 ---
 
-# root@ashwin:~$ ls repositories
+## Featured Projects
 
-| Project     | Repository                                  |
-| ----------- | ------------------------------------------- |
-| FROM4       | https://github.com/ashwinjain825/from4      |
-| SyncSwitch  | https://github.com/prtbws/syncswitch        |
-| EGG Engine  | https://github.com/ashwinjain825/egg-engine |
-| BigCalc     | https://github.com/ashwinjain825/bigcalc    |
-| Visual Draw | https://github.com/ashwinjain825/visualdraw |
+<div align="center">
 
----
+<a href="https://github.com/ashwinjain825/from4">
+<img src="https://img.shields.io/badge/FROM4-Digital_Addressing_System-0A84FF?style=for-the-badge"/>
+</a>
 
-# root@ashwin:~$ skills --all
+<a href="https://github.com/prtbws/syncswitch">
+<img src="https://img.shields.io/badge/SyncSwitch-Cross_Device_Control-FF1744?style=for-the-badge"/>
+</a>
 
-## Languages
+<a href="https://github.com/ashwinjain825/egg-engine">
+<img src="https://img.shields.io/badge/EGG_Engine-Expression_To_Gate_Generator-0A84FF?style=for-the-badge"/>
+</a>
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=00FF41)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge\&logo=cplusplus\&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript\&logoColor=00FF41)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge\&logo=php\&logoColor=00FF41)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge\&logo=html5\&logoColor=00FF41)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge\&logo=css3\&logoColor=00FF41)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge\&logo=mysql\&logoColor=00FF41)
+<br><br>
 
----
+<a href="https://github.com/ashwinjain825/bigcalc">
+<img src="https://img.shields.io/badge/BigCalc-High_Precision_Calculator-FF1744?style=for-the-badge"/>
+</a>
 
-## Tools
+<a href="https://github.com/ashwinjain825/visualdraw">
+<img src="https://img.shields.io/badge/Visual_Draw-Interactive_Drawing_Platform-0A84FF?style=for-the-badge"/>
+</a>
 
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge\&logo=git\&logoColor=00FF41)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=00FF41)
-![VSCode](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge\&logo=visualstudiocode\&logoColor=00FF41)
-![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge\&logo=arduino\&logoColor=00FF41)
+</div>
 
 ---
 
-# root@ashwin:~$ coding_profiles
+## Coding Profiles
 
-| Platform   | Username      |
-| ---------- | ------------- |
-| GitHub     | ashwinjain825 |
-| Codeforces | ashwinjain825 |
-| LeetCode   | ashwinjain825 |
-| CodeChef   | ashwinjain825 |
+<div align="center">
 
----
+<a href="https://github.com/ashwinjain825">
+<img src="https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github"/>
+</a>
 
-# root@ashwin:~$ github-stats
+<a href="https://linkedin.com/in/ashwinjain825">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashwinjain825&show_icons=true&theme=chartreuse-dark"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinjain825&layout=compact&theme=chartreuse-dark"/>
-</p>
+<a href="https://codeforces.com">
+<img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge"/>
+</a>
 
-<p align="center">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinjain825&theme=chartreuse-dark"/>
-</p>
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
 
----
+<a href="https://www.codechef.com">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
+</a>
 
-# root@ashwin:~$ contribution-graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinjain825&theme=chartreuse-dark"/>
-</p>
+</div>
 
 ---
 
-# root@ashwin:~$ connect
+## GitHub Analytics
 
-```bash
-Email      : ashwinjain825@gmail.com
-GitHub     : github.com/ashwinjain825
-LinkedIn   : linkedin.com/in/ashwinjain825
-Codeforces : codeforces.com/profile/ashwinjain825
-LeetCode   : leetcode.com/ashwinjain825
-CodeChef   : codechef.com/users/ashwinjain825
-```
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashwinjain825&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinjain825&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinjain825&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-```bash
-root@ashwin:~$ echo "Thanks for visiting my profile."
-```
+## Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinjain825&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ashwinjain825&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ashwinjain825/ashwinjain825/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+<a href="mailto:ashwinjain825@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-FF1744?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/ashwinjain825">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A84FF?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Build • Learn • Create • Repeat
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0D1117,30:0A84FF,70:FF1744,100:0D1117"/>
