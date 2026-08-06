@@ -203,14 +203,6 @@ ashwinjain825@gmail.com
 ---
 ## Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/ashwinjain825/from4">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwinjain825&repo=from4&theme=tokyonight&hide_border=false" />
-</a>
-
-</div>
-
 ### FROM4
 A digital addressing system that converts geographical coordinates into easy-to-share location codes.
 
@@ -225,14 +217,6 @@ A digital addressing system that converts geographical coordinates into easy-to-
 `JavaScript` `HTML` `CSS` `Leaflet.js` `OpenStreetMap`
 
 ---
-
-<div align="center">
-
-<a href="https://github.com/prtbws/syncswitch">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwinjain825&repo=syncswitch&theme=tokyonight&hide_border=False" />
-</a>
-
-</div>
 
 ### SyncSwitch
 Control and synchronize devices seamlessly across platforms.
@@ -271,14 +255,6 @@ Expression-to-Gate Generator that transforms Boolean expressions into digital lo
 `JavaScript` `HTML` `CSS`
 
 ---
-
-<div align="center">
-
-<a href="https://github.com/ashwinjain825/bigcalc">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwinjain825&repo=bigcalc&theme=tokyonight&hide_border=false" />
-</a>
-
-</div>
 
 ### BigCalc
 High-precision calculator capable of handling calculations beyond normal floating-point limits.
