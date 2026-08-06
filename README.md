@@ -27,6 +27,10 @@ College  : IIITDM Kurnool
 Degree   : B.Tech — Artificial Intelligence & Data Science
 Focus    : Competitive Programming + Full Stack Dev
 Weapons  : C++ ⚔️  Python 🐍  NodeJS 🔌
+F. Proj  : From4
+           SeekerKit
+           SyncSwitch
+           BigCalc
 
 ```
 
