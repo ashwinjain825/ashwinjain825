@@ -152,27 +152,21 @@ ashwinjain825@gmail.com
 
 <div align="center">
 
-<table>
+<table border="0px">
+<img width="500em" src="https://github-readme-streak-stats.herokuapp.com?user=ashwinjain825&theme=transparent&hide_border=false&border_radius=20&stroke=0A84FF&ring=FF1744&fire=FF1744&currStreakLabel=0A84FF"/>
+<br>
 <tr>
 
 <td>
 
-<img height="195em" src="https://github-readme-stats.vercel.app/api?username=ashwinjain825&show_icons=true&theme=transparent&hide_border=false&border_radius=20&title_color=0A84FF&icon_color=FF1744&text_color=FFFFFF&border_color=0A84FF"/>
-
-</td>
-
-<td>
-
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinjain825&layout=compact&theme=transparent&hide_border=false&border_radius=20&title_color=0A84FF&text_color=FFFFFF&border_color=FF1744"/>
+<a href="https://github.com/ashwinjain825">
+<img widht="600em" src="https://ghstats.dev/api/card?username=ashwinjain825&theme=transparent&show_icons=true&hide_border=false&border_radius=20&title_color=0A84FF&icon_color=FF1744&text=FFFFFF&border_color=0A84FF" />
+</a>
 
 </td>
 
 </tr>
 </table>
-
-<br>
-
-<img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=ashwinjain825&theme=transparent&hide_border=false&border_radius=20&stroke=0A84FF&ring=FF1744&fire=FF1744&currStreakLabel=0A84FF"/>
 
 </div>
 
@@ -184,7 +178,7 @@ ashwinjain825@gmail.com
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashwinjain825&theme=tokyonight"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinjain825&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -233,13 +227,20 @@ Control and synchronize devices seamlessly across platforms.
 
 ---
 
-<div align="center">
+### SeekerKit
+Lightweight, modular Python search library for graph traversal and state-space algorithms.
 
-<a href="https://github.com/ashwinjain825/egg-engine">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwinjain825&repo=egg-engine&theme=tokyonight&hide_border=true" />
-</a>
+**Features**
+- Zero-dependency architecture
+- Uninformed search tools (BFS, DFS, UCS, DLS)
+- Informed search algorithms (GBFS, A*)
+- Flexible graph and callable neighbor support
+- Standardized result tracking and metrics
 
-</div>
+**Tech Stack**
+`Python` `Data Structures` `Algorithms` `PyPI`
+
+---
 
 ### EGG Engine
 Expression-to-Gate Generator that transforms Boolean expressions into digital logic circuits.
@@ -270,14 +271,6 @@ High-precision calculator capable of handling calculations beyond normal floatin
 `JavaScript` `HTML` `CSS`
 
 ---
-
-<div align="center">
-
-<a href="https://github.com/ashwinjain825/visualdraw">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=ashwinjain825&repo=visualdraw&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
 
 ### Visual Draw
 Interactive drawing and visualization platform for sketches and diagrams.
