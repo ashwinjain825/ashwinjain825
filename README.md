@@ -19,30 +19,20 @@
 
 ## About Me
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF"/>
 
-<div align="center">
+```yaml
+Name     : ASHWIN JAIN
+College  : IIITDM Kurnool
+Degree   : B.Tech — Artificial Intelligence & Data Science
+Focus    : Competitive Programming + Full Stack Dev
+Weapons  : C++ ⚔️  Python 🐍  NodeJS 🔌
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│                      Curious Child                           │
-│                                                              │
-│  I love exploring how things work, whether it's software,    │
-│  technology, maps, logic systems, or ideas that can make     │
-│  everyday life simpler.                                      │
-│                                                              │
-│  Most of my time is spent learning, experimenting, and       │
-│  building projects that solve real problems.                 │
-│                                                              │
-│  I enjoy turning random thoughts into working products and   │
-│  constantly pushing myself to learn something new.           │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
 ```
 
-</div>
+<br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Tech Arsenal
 
@@ -56,7 +46,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Connect & Compete
 
@@ -145,8 +135,7 @@ ashwinjain825@gmail.com
 
 </div>
 
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## GitHub Analytics
 
@@ -170,9 +159,7 @@ ashwinjain825@gmail.com
 
 </div>
 
----
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Developer Metrics
 
@@ -182,8 +169,8 @@ ashwinjain825@gmail.com
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
 ## Competitive Programming
 
 <div align="center">
@@ -194,7 +181,8 @@ ashwinjain825@gmail.com
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## Featured Projects
 
 ### FROM4
@@ -285,7 +273,7 @@ Interactive drawing and visualization platform for sketches and diagrams.
 **Tech Stack**
 `JavaScript` `HTML5 Canvas` `CSS`
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Contribution Snake
 
